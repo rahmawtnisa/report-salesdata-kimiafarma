@@ -2,7 +2,7 @@
 
 A Virtual Internship Experience Big Data Analytics in Kimia Farma facilitated by Rakamin Academy. 
 In this project, as a Big Data Analyst Intern from Kimia Farma I learned about analyze data in SQL.
-At the end of the project, I asked to build a sales dashboard using Google Data Studio with the following real case dataset from Kimia Farma.
+At the end of the project, I created a sales dashboard using Google Data Studio with the following real case dataset from Kimia Farma.
 
 ## Issues
 
