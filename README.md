@@ -18,4 +18,5 @@ Exported the aggregate table to CSV for data source in Google Data Studio.
 Lastly, I built a dashboard using data source from aggregate table in Google Data Studio. You can check and using it as you need 
 [here](https://lookerstudio.google.com/reporting/576c6f65-b65e-4480-88e1-09a561fe1632)
 
-![image](https://github.com/user-attachments/assets/bfcf9b95-43b3-432d-a267-e2fbcb1b8d3f)
+![image](https://github.com/user-attachments/assets/179340db-1faf-472c-81f0-be89a732dfa4)
+
